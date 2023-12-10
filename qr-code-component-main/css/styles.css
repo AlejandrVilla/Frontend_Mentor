@@ -1,0 +1,69 @@
+html{
+    font-size: 62.5%;
+    /* font-size: 80%; */
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+*{
+    box-sizing: border-box;
+    border-radius: 5%;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#container{
+    width: 320px;
+    height: 500px;
+    background-color: white;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#container #divQR{
+    top: 3.5%;
+    width: 90%;
+    height: 60%;
+    position: absolute;
+    overflow: hidden;
+}
+#divQR img{
+    width: 100%;
+    height: 100%;
+}
+#container #parrafo1{
+    top: 67%;
+    position: absolute;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 1%;
+    padding-bottom: 5%;
+    font-size: 2.1rem;
+    /* font-size: 1.6rem; */
+}
+#container #parrafo2{
+    top: 80%;
+    position: absolute;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    font-size: 1.7rem;
+    /* font-size: 1.2rem; */
+}
+.attribution{ 
+    font-size: 11px; 
+}
+.attribution a{ 
+    color: hsl(228, 45%, 44%); 
+}
