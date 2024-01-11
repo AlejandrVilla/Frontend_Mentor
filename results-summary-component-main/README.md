@@ -24,7 +24,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [solution URL](https://www.frontendmentor.io/solutions/results-summary-component-5XpIi9VDWd)
-- Live Site URL: [live site URL](https://alejandrvilla.github.io/results-summary-component/)
+- Live Site URL: [live site URL](https://alejandrvilla.github.io/Frontend_Mentor/results-summary-component-main/)
 
 ## My process
 

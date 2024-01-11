@@ -23,8 +23,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/faqaccordionmain-RT9dYXW_hH)
-- Live Site URL: [Add live site URL here](https://alejandrvilla.github.io/Frontend_Mentor//faq-accordion-main/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/faqaccordionmain-RT9dYXW_hH)
+- Live Site URL: [Live site](https://alejandrvilla.github.io/Frontend_Mentor//faq-accordion-main/)
 
 ## My process
 

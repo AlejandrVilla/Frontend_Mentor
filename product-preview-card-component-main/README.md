@@ -20,8 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/qr-component-with-flexbox-t61-3GjUOh)
-- Live Site URL: [live site URL](https://alejandrvilla.github.io/QR-Component/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-design-with-html-and-css-zIowpL72Jt)
+- Live Site URL: [live site URL](https://alejandrvilla.github.io/Frontend_Mentor/product-preview-card-component-main/)
 
 
 ## My process
