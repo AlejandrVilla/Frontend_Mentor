@@ -112,7 +112,9 @@ button:hover{
     width: 450px;
     height: 500px;
     border-radius: 30px;
-    background-color: hsl(213, 25%, 13%);
+    /* background-color: hsl(213, 25%, 13%); */
+    background: rgb(30,37,45);
+    background: radial-gradient(circle at top, rgba(30,37,45,1) 20%, rgba(23,30,40,1) 50%);
 }
 .thanks_img_div{
     margin: 60px 40px 0px 40px;
