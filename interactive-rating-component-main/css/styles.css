@@ -36,7 +36,9 @@ section{
     width: 450px;
     height: 450px;
     border-radius: 30px;
-    background-color: hsl(213, 25%, 13%);
+    /* background-color: hsl(213, 25%, 13%); */
+    background: rgb(30,37,45);
+    background: radial-gradient(circle at top, rgba(30,37,45,1) 20%, rgba(23,30,40,1) 50%);
 }
 /*rating*/
 .icon_div{
@@ -64,7 +66,7 @@ section{
     justify-content: space-between;
 }
 .items div{
-    background-color: hsl(213, 25%, 13%);
+    background-color: rgba(23,30,40,1);
     display: grid;
     align-items: center;
     justify-content: center;
