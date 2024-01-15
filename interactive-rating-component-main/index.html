@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <link rel="stylesheet" href="./css/styles.css">
+  <title>Frontend Mentor | Interactive rating component</title>
+
+</head>
+<body>
+  <!-- Rating state start -->
+  <section>
+    <div class="container1" >
+
+      <div class="icon_div">
+        <img class="star_icon" src="images/icon-star.svg" alt="star_icon">
+      </div>
+
+      <div class="options">
+        <h1>How did we do?</h1>
+        <p>Please let us know how we did with your support request. All feedback is appreciated 
+          to help us improve our offering!</p>
+      </div>
+
+      <div class="items">
+        <div><p class="primero primary">1</p></div>
+        <div><p class="segundo primary">2</p></div>
+        <div><p class="tercero primary">3</p></div>
+        <div><p class="cuarto primary">4</p></div>
+        <div><p class="quinto primary">5</p></div>
+      </div>
+
+      <button class="submit_button"><h3>SUBMIT</h3></button>
+
+    </div>
+      <!-- Rating state end -->
+
+    <!-- Thank you state start -->
+    <div class="container2" id="inactive">
+      <div class="thanks_img_div">
+        <img class="thanks_image" src="images/illustration-thank-you.svg" alt="thanks_image">
+      </div>
+      <div class="selections">
+        <p>You selected <span id="selectedRating">0</span> out of 5</p>
+      </div>
+      <div class="thanks">
+        <h1>Thank you!</h1>
+      </div>
+      <div class="extra">
+        <p>We appreciate you taking the time to give a rating. If you ever need more support, don't hesitate to get in touch!</p>
+      </div>
+      
+    </div>
+    <!-- Thank you state end -->
+
+    <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="#">Alejandro Villa Herrera</a>.
+    </div>
+
+  </section>
+  <script src="./main.js"></script>
+</body>
+</html>
