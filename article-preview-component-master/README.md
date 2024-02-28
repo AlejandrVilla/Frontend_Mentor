@@ -21,7 +21,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ![Screenshot3](./images/Screenshot3.png)
 ![Screenshot4](./images/Screenshot4.png)
 
-
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/article-preview-component-hFrvq7Y59L)
