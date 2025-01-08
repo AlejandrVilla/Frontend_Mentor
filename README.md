@@ -1,4 +1,4 @@
-### Solucion a los problemas de Frontend Mentor
+### Solutions for Frontend Mentor challenges
 
 
 - [Product preview card component](https://alejandrvilla.github.io/Frontend_Mentor/product-preview-card-component-main/)
