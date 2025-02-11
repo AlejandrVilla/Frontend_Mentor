@@ -17,3 +17,5 @@
 - [Space tourism multipage website](https://alejandrvilla.github.io/space-tourism-website/), [Github](https://github.com/AlejandrVilla/space-tourism-website)
 
 - [Advice generator app](https://alejandrvilla.github.io/advice-generator-app/), [Github](https://github.com/AlejandrVilla/advice-generator-app/)
+
+- [Fylo landing page](https://alejandrvilla.github.io/fylo-landing-page/), [Github](https://github.com/AlejandrVilla/fylo-landing-page)
